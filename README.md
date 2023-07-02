@@ -6,7 +6,7 @@ So basically the complication in the data is that they are hard to classify beca
 
 # Image of Globs
 
-![globs ](https://github.com/vivek9976/YOLO-ON-CRYSTAL-DATA/assets/79739934/ca4cf5eb-b571-463e-8b6f-1e484a5229f8)
+![globs](https://github.com/vivek9976/YOLO-ON-CRYSTAL-DATA/assets/79739934/c8f23581-2529-436c-a61d-5fef4620700a)
 
 # Image of Hardknots
 
