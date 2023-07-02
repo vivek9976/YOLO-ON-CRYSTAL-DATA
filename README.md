@@ -2,7 +2,14 @@
 
 I have cloned the differnt version of yolo and trained all the models on crystal data.
 In this dataset we have 2 classes Hardknots and Globs.
-So basically the complication in the data is that they are hard to classify because they have so much similarity.
+So basically the complication in the data is that they are hard to classify because they have so much in similarity.
+
+# Training and Testing of different model of yolo
+
+So to train and test the particular version of Yolo you can clone the model from the github or on roboflow for every version of model they have colab notebook on their website on which they have trained the model for their own dataset. so you can refer to the notebook and follow the instruction step by step to train or test the model your custom dataset.
+
+# Observation
+
 
 # Image of Globs
 
