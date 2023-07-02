@@ -10,3 +10,5 @@ So basically the complication in the data is that they are hard to classify beca
 
 # Image of Hardknots
 
+![harkots](https://github.com/vivek9976/YOLO-ON-CRYSTAL-DATA/assets/79739934/96090cb1-c62c-430f-8302-1fd7d3c4700c)
+
